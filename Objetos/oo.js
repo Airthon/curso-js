@@ -19,7 +19,7 @@ Object.processamento() // Foco passou a ser o objeto
 // 1. abstracao
 // 2. encapsulamento
 // 3. herança (prototype)
-// 4. polimorfismo
+// 4. polimorfismo = Multiplas formas
 
 
 
